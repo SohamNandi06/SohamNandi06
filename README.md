@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sohamnandi06&label=Profile%20views&color=0e75b6&style=flat" alt="sohamnandi06" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sohamnandi06" alt="sohamnandi06" /></a> </p>
+
 
 🔭 I’m currently working on authentication, APIs, and scalable architecture<br><br>🌱 I’m currently learning Gen AI, Agentic AI and other new technologies<br><br>📫 Reach me at soham943325@gmail.com<br><br>⚡ Fun fact: I debug my code faster than I debug my life 😅
 
